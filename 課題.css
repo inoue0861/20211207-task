@@ -31,7 +31,7 @@ body {
 }
 
 .photo {
-  background-image: url("../20211207inoue/img/firstview.jpeg");
+  background-image: url("img/firstview.jpeg");
   background-repeat: no-repeat;
   position: absolute;
   background-position: right 0px top 50px;
