@@ -17,8 +17,10 @@ h1 {
   display: flex;
   font-weight: bold;
   justify-content: flex-end;
-  width:35%;
+  width:600px;
   padding: 50px;
+  margin: 550px;
+
 }
 
 .child {
